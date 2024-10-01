@@ -18,4 +18,4 @@ spec:
       - name: nginx
         image: ami-0aa097a5c0d31430a
         ports:
-        - containerPort: 80
+        - containerPort: 8080
